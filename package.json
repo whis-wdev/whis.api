@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/whis-wdev/whis.api/issues"
   },
-  "homepage": "https://github.com/whis-wdev/whis.api#readme"
+  "homepage": "https://github.com/whis-wdev/whis.api#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.1"
+  }
 }
